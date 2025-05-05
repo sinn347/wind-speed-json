@@ -1,0 +1,9 @@
+{
+  "lokasi": "BLITAR",
+  "tanggal": "2025-05-05",
+  "wind_speed": {
+    "satuan": "km/h",
+    "kecepatan": 1,5,
+    "arah": "Timur Laut"
+  }
+}
